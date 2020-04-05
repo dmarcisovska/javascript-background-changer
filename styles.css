@@ -1,0 +1,42 @@
+.forest {
+    background:url('https://cdn.pixabay.com/photo/2018/12/15/18/02/forest-3877365_1280.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.stars {
+    background:url('https://cdn.pixabay.com/photo/2015/08/28/11/27/space-911785_1280.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.lake {
+    background:url('https://cdn.pixabay.com/photo/2016/11/06/05/36/landscape-1802337_1280.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.stream {
+    background:url('https://cdn.pixabay.com/photo/2015/11/11/03/47/evening-1038148_1280.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+.mountain {
+    background:url('https://cdn.pixabay.com/photo/2015/07/27/17/14/switzerland-862870_1280.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+select {
+    width: 60px;
+}
+
+.form-control {
+    width: 150px;
+}
